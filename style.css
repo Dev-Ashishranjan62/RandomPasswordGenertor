@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#container {
+  background-color: #a0d490;
+  width: auto;
+  height: auto;
+  border: 2px solid greenyellow;
+  border-radius: 7px;
+  text-align: center;
+  margin: 150px;
+}
+#inputField {
+  border: 2px solid green;
+  border-radius: 7px;
+  background-color: #396231;
+  padding: 10px;
+  margin: 10px;
+}
+#genereteBtn {
+  border: 2px green;
+  border-radius: 7px;
+  background-color: blue;
+  padding: 10px;
+  margin: 10px;
+}
+span {
+  background-color: #a0d490;
+}
